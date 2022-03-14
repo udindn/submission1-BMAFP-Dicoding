@@ -1,16 +1,14 @@
-# submission_1_flutter
+# Tentang Proyek
+Aplikasi ini dibuat sebagai media belajar untuk menjadi flutter developer pemula dan memenuhi test submission akhir pada kelas Belajar Membuat Aplikasi Flutter untuk Pemula.
 
-A new Flutter project.
+# Kriteria Submission
+Berikut kriteria submission yang harus Anda penuhi:
 
-## Getting Started
+- Terdapat penggunaan Stateless Widget. Misalnya untuk menampilkan Row atau Column.
+- Terdapat penggunaan Stateful Widget. Misalnya untuk menerima input atau widget yang menampilkan status aplikasi.
+- Memiliki minimal 2 (dua) halaman dan menerapkan Navigation.
+- Tidak memiliki tampilan yang overflow (dapat menyesuaikan ukuran layar). Poin plus jika tampilan responsif pada perangkat mobile dan browser.
+- Tema aplikasi yang dikirimkan bebas namun semakin detail dan lengkap aplikasi Anda maka nilai submission bisa lebih tinggi.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tips: 
+Anda dapat mencari referensi UI dari website seperti dribbble atau behance untuk mengerjakan submission.
